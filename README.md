@@ -47,7 +47,7 @@ Cada ejercicio tiene su propia carpeta con la siguiente organización:
 
 ## 🧠 Criterio de selección
 
-Incluyo ejercicios que cumplen con al menos una de estas características:
+Incluyo ejercicios que cumplen con al menos una de estas características:  
 ✅ Demuestran técnicas algorítmicas interesantes  
 ✅ Presentan soluciones creativas a problemas complejos  
 ✅ Ilustran conceptos fundamentales de programación  
